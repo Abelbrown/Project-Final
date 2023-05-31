@@ -22,13 +22,14 @@ To run the Fraud Detection system, you need the following dependencies:
 
 ## Architecture
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQOP7U-_y6pawcGIStP9l5S9yhaEJtQd-hPKKarZb0hPZ2gaV3c_LmLJmJWwwy6sQGwRN68-pZ512LE/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+https://docs.google.com/presentation/d/e/2PACX-1vQ2b4Lncli47kniTKk7b06inwDg2CyVIiH68HIxDt_7UFGgnKocWB5L4f-PWilseNZaNOJmAIn9mZT4/pub?start=false&loop=false&delayms=3000
 
 
 Feel free to customize the system according to your specific requirements and use cases.
 
 
 ## Authors
-Delphine Cesar
-Caroline Mathius
-Abel Mebkhout
+
+- Delphine Cesar
+- Caroline Mathius
+- Abel Mebkhout
